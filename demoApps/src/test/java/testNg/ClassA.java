@@ -6,8 +6,7 @@ public class ClassA {
 
 		System.out.println("These are the new Changes");
 		
-		
-		
+	
 		System.out.println("These are the changes after Bangkok kok");
 	}
 
