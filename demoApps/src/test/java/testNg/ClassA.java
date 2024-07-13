@@ -6,8 +6,12 @@ public class ClassA {
 
 		System.out.println("These are the new Changes");
 		
+
 	
 		System.out.println("These are the changes after Bangkok kok");
+
+		System.out.println("These are the new Changes for new Branch");
+
 	}
 
 }
